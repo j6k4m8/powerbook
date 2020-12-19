@@ -1,6 +1,15 @@
-# Powerbook
+<p align=center><h1 align=center>Powerbook</h1></p>
+<p align=center>Generate Powerpoint presentations from a Jupyter Notebook.</p>
 
-Generate Powerpoint presentations from a Jupyter Notebook.
+<p align=center>
+  <a href="https://github.com/j6k4m8/powerbook/" alt="GitHub repo size"><img src="https://img.shields.io/github/repo-size/j6k4m8/powerbook?style=for-the-badge" /></a>
+  <a href="https://github.com/j6k4m8/powerbook" alt="GitHub last commit"><img src="https://img.shields.io/github/last-commit/j6k4m8/powerbook?style=for-the-badge" /></a>
+  <a href="https://github.com/j6k4m8/powerbook" alt="This repo is pretty dope."><img src="https://img.shields.io/badge/pretty%20dope-%F0%9F%91%8C-blue?style=for-the-badge" /></a>
+</p>
+<p align=center>
+  <a href="https://github.com/j6k4m8/powerbook" alt="This repo is licensed under Apache 2.0"><img src="https://img.shields.io/github/license/j6k4m8/powerbook?style=for-the-badge" /></a>
+  <a href="https://pypi.org/project/powerbook/"><img alt="PyPI" src="https://img.shields.io/pypi/v/powerbook?style=for-the-badge"></a>
+</p>
 
 ---
 

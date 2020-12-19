@@ -23,9 +23,9 @@ dependency_links = [
 ]
 
 setup(
-    name="goosepaper",
+    name="Powerbook",
     version=__version__,
-    description="Generate and deliver a daily newspaper PDF",
+    description="Generate Powerpoint presentations from a Jupyter Notebook",
     long_description=long_description,
     long_description_content_type="text/markdown",
     download_url="https://github.com/j6k4m8/powerbook/tarball/" + __version__,
