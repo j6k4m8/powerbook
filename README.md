@@ -21,7 +21,7 @@ And hey another thing! My notebook doesn't always match up with the presentation
 
 ## Solution(?)
 
-This (admittedly janky) solution lets you generate a Powerpoint presentation directly from your Jupyter notebooks (or, for that matter, directly from a Python script). When you have a product that you like, such as a figure or an output, add it to your slideshow with `Powerbook#add_image_slide`, for example. Powerbook will automatically figure out how to add matplotlib figures and images from your hard drive.
+This solution lets you generate a Powerpoint presentation directly from your Jupyter notebooks (or, for that matter, directly from a Python script). When you have a product that you like, such as a figure or an output, add it to your slideshow with `Powerbook#add_image_slide`, for example. Powerbook will automatically figure out how to add matplotlib figures and images from your hard drive.
 
 When you rerun your analysis, your powerpoint file is automatically regenerated with the fresh results.
 
