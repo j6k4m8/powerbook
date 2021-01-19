@@ -15,7 +15,7 @@
 
 ## Background
 
-The built-in Jupyter Notebook Reveal.js slideshow system is nice! I do use it a lot. But it doesn't jive well with collaboration (editors all need to be familiar with the system, and they also need to be able to edit your notebook), and honestly, the industry standard is Powerpoint and that's not going away any time soon. (Beamer sorta exists, but I declare that if you're writing your slideshows in LaTeX you're on your own to get figures into it from Python.)
+The built-in Jupyter Notebook Reveal.js slideshow system is nice! But it doesn't jive well with collaboration (editors all need to be familiar with the system, and they also need to be able to edit your notebook), and honestly, the industry standard is PowerPoint and that's not going away any time soon. (Beamer sorta exists, but I declare that if you're writing your slideshows in LaTeX, then you're on your own getting figures in from Python.)
 
 And hey another thing! My notebook doesn't always match up with the presentation I want to write: coding and storytelling don't always happen in the same order.
 
